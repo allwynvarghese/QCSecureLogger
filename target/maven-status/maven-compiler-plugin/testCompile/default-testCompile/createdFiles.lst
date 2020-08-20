@@ -1,0 +1,5 @@
+NewTest\NewTest.class
+FileReader\ReadExcelFile.class
+com\PageFactoryLogger\LoginPageFactory.class
+test\SecureLogger.class
+utilities\Waits.class
